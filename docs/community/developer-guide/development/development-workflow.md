@@ -4,7 +4,7 @@ The following graph shows the workflow how to develop tKeel backend.
 
 ## Step 1. Fork
 
-1. Visit https://github.com/tkeel/tkeel
+1. Visit https://github.com/tkeel-io/keel-cli
 2. Click `Fork` button to create a fork of the project to your GitHub account.
 
 ## Step 2. Clone fork to local storage
@@ -23,9 +23,9 @@ Create your clone locally:
 ```bash
 mkdir -p $working_dir
 cd $working_dir
-git clone https://github.com/$user/tkeel.git
-cd $working_dir/tkeel
-git remote add upstream https://github.com/tkeel/tkeel.git
+git clone https://github.com/$user/keel-cli.git
+cd $working_dir/keel-cli
+git remote add upstream https://github.com/tkeel-io/keel-cli.git
 
 # Never push to upstream master
 git remote set-url --push upstream no_push
@@ -99,6 +99,6 @@ git push -f ${your_remote_name} myfeature
 
 ## Step 7. Create a PR
 
-- Visit your fork at https://github.com/$user/tkeel
+- Visit your fork at https://github.com/$user/keel-cli
 - Click the` Compare & Pull Request` button next to your myfeature branch.
 - Check out the [pull request process](pull-request.md) for more details and advice.
