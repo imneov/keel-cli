@@ -1,6 +1,6 @@
 # keel-cli
 
-[![codecov](https://codecov.io/gh/xujielong/demo/branch/master/graph/badge.svg?token=MR6NSOHHA9)](https://codecov.io/gh/xujielong/demo)
+[![codecov](https://codecov.io/gh/tkeel-io/keel-cli/branch/main/graph/badge.svg?token=AAJ3SODKYK)](https://codecov.io/gh/tkeel-io/keel-cli)
 
 ----
 
