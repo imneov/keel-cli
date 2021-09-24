@@ -15,12 +15,12 @@ TODO
 ## Features
 
 The goal of this tutorial is to demonstrate the basic usage of the most popular tKeel features. You will learn how to:
- - Connect devices to tKeel;
- - Push data from devices to tKeel;
- - Build real-time end-user dashboards;
- - Define thresholds and trigger alarms;
- - Push notifications about new alarms over email, sms or other systems.
-
+ - Install keel: similar to dapr install, install relevant programs;
+ - Install the plug-in: similar to dapr run, start the program and register with the plugin manager;
+ - User list: lists the user list;
+ - Plug in list: lists the plug-in list;
+ - Stop plug-in: similar to dapr stop;
+ - Uninstall keel: similar to dapr uninstall, uninstall the program.
 
 ## Architecture
 
