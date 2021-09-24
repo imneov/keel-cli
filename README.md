@@ -6,7 +6,7 @@
 
 ## What is keel-cli
 
-TODO
+The Keel CLI allows you to setup Keel on your local dev machine or on a Kubernetes cluster, launches and manages Keel instances.
 
 ## Demo Environment
 
@@ -14,13 +14,22 @@ TODO
 
 ## Features
 
-TODO
+The goal of this tutorial is to demonstrate the basic usage of the most popular tKeel features. You will learn how to:
+ - Connect devices to tKeel;
+ - Push data from devices to tKeel;
+ - Build real-time end-user dashboards;
+ - Define thresholds and trigger alarms;
+ - Push notifications about new alarms over email, sms or other systems.
+
 
 ## Architecture
 
-TODO
+The diagram below shows key system components and interfaces they provide. Let’s walk through them.
+
+![Architecture](docs/images/architecture.png)
 
 ## Latest Release
+
 TODO
 
 ## Installation
